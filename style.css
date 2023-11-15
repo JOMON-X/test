@@ -1,0 +1,65 @@
+.parent {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 135px 400px 20px 400px;
+}
+
+.parent2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 75px 500px 55px 500px;
+}
+
+.title{
+    font-family: cursive;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+
+}
+
+
+.buttonext {
+    height: 200px;
+    width: 175px;
+
+    font-family: cursive;
+    
+}
+
+
+#unda{
+    position: relative;
+}
+
+.logininf{
+    border: 0.5px solid black;
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: rgb(153, 153, 153);
+
+}
+
+.loginlogo{
+    display: inline-block;
+    border: 0.5px solid black;
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+
+    position: absolute;
+    top: 12.5px;
+    left: 12.5px;
+}
+
+.topbaral{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
